@@ -2,7 +2,7 @@
 ---
 
 $header-heading-color: white;
-$header-bg-color: #000;
+$header-bg-color: #00FF00;
 $header-bg-color-secondary: #FFF;
 
 $section-headings-color: black;
@@ -16,7 +16,7 @@ $hr-border-color: #999 !default;
 
 $code-text-color: black;
 
-@import 'jekyll-theme-cayman';
+@import 'minimal-mistakes';
 
 .logo-container {
   margin: auto;
