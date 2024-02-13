@@ -12,6 +12,7 @@ navigation:
   Speakers: "/speakers"
   Organizers: "/organizers"
   Program Committee: "/program_committee"
+  Accepted Papers: "/papers"
   Schedule: "/schedule"
   # Past Events: "/past"
 
