@@ -44,9 +44,9 @@ We are very grateful for the support of these researchers who served as the prog
 - Jassem Abbasi
 - Jocelyn Ahmed Mazari
 - Kai-Hendrik Cohrs
-- Matthias Karlbauer
 - Marimuthu Kalimuthu
 - Massimiliano Lupo Pasini
+- Matthias Karlbauer
 - Melissa Ruiz-Vásquez
 - Michael Penwarden
 - Milind Malshe
@@ -57,19 +57,19 @@ We are very grateful for the support of these researchers who served as the prog
 - Nikolaos Evangelou
 - Nina Effenberger
 - Octavi Obiols-Sales
+- Oleksandr Shchur
 - Pablo Hermoso Moreno
 - Patrick Emami
 - Paul Bogdan
 - Pinaki Pal
 - Raman Khurana
 - Ramin Bostanabad
+- S Chandra Mouli
 - Samuel J. Grauer
 - Sandeep Reddy Bukka
-- S Chandra Mouli
 - Shafkat Islam
 - Shancong Mou
 - Shashank Subramanian
-- Oleksandr Shchur
 - Shijie Jiang
 - Sourav Pal
 - Sujit Roy
