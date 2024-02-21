@@ -2,6 +2,7 @@
 We are very grateful for the support of these researchers who served as the program committee of our workshop.
 
 ## Area Chairs:
+- Aditi Krishnapriyan
 - Boran Han
 - Danielle Maddix Robinson
 - Neil Ashton
@@ -28,6 +29,7 @@ We are very grateful for the support of these researchers who served as the prog
 - Christian Lessig
 - Christian Reimers
 - Christophe Bonneville
+- Derek Hansen
 - Dhruv V. Patel
 - Farinaz Mostajeran
 - Fernando Iglesias-Suarez
@@ -45,6 +47,7 @@ We are very grateful for the support of these researchers who served as the prog
 - Jassem Abbasi
 - Jocelyn Ahmed Mazari
 - Kai-Hendrik Cohrs
+- Lekan Samuel Adesina
 - Marimuthu Kalimuthu
 - Massimiliano Lupo Pasini
 - Matthias Karlbauer
@@ -76,8 +79,8 @@ We are very grateful for the support of these researchers who served as the prog
 - Sujit Roy
 - Suparno Bhattacharyya
 - Suraj Pawar
-- Taniya Kapoor
 - Takuya Kurihana
+- Taniya Kapoor
 - Tobias Pfaff
 - Umair Waheed
 - Utkarsh
