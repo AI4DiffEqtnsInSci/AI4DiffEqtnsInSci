@@ -5,6 +5,7 @@ We are very grateful for the support of these researchers who served as the prog
 - Aditi Krishnapriyan
 - Boran Han
 - Danielle Maddix Robinson
+- Mahkameh Zarekarizi
 - Neil Ashton
 - Shima Alizadeh
 - Vitus Benson
@@ -62,7 +63,6 @@ We are very grateful for the support of these researchers who served as the prog
 - Nina Effenberger
 - Octavi Obiols-Sales
 - Oleksandr Shchur
-- Pablo Hermoso Moreno
 - Patrick Emami
 - Paul Bogdan
 - Pinaki Pal
