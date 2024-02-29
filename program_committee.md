@@ -37,6 +37,7 @@ We are very grateful for the support of these researchers who served as the prog
 - Florian Tobias Schaefer
 - Francesco Martinuzzi
 - François Rozet
+- Gaurav Gupta
 - Graciano Carrillo Pousa
 - Gustau Camps-Valls
 - Haocheng Dai
