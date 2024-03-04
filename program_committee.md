@@ -23,7 +23,7 @@ We are very grateful for the support of these researchers who served as the prog
 - Benjamin Moseley
 - Bernhard Ahrens
 - Bing Li
-- Boris Bonev`
+- Boris Bonev
 - Christian Lessig
 - Christian Reimers
 - Christophe Bonneville
