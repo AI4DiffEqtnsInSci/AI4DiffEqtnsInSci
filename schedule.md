@@ -24,7 +24,7 @@ All times are in the CET timezone.
 | 2:00 PM - 2:15 PM | Coffee Break                    |                                                                                                 |
 | 2:15 PM - 2:45 PM | Invited Talk 6      | Alex Townsend                                                                   |
 | 2:45 PM - 3:30 PM | Panel Discussion                     | Kevin Carlberg, Marta D'Elia, Shirley Ho, Max Welling                                                                            |
-| 3:30 PM - 3:45 PM | Contributed Talk                   |  A Multi-Grained Symmetric Differential Equation Model for Learning Protein Ligand Binding Dynamics                                        |
-| 3:45 PM - 4:15 PM | Invited Talk                     | Youngsoo Choi                                     |
-| 4:15 PM - 4:45 PM | Invited Talk                     | Steve Brunton                |
+| 3:30 PM - 3:45 PM | Contributed Talk 4                   |  A Multi-Grained Symmetric Differential Equation Model for Learning Protein Ligand Binding Dynamics                                        |
+| 3:45 PM - 4:15 PM | Invited Talk 7                    | Youngsoo Choi                                     |
+| 4:15 PM - 4:45 PM | Invited Talk 8                    | Steve Brunton                |
 | 4:45 PM - 5:00 PM | Closing Remarks                          | Organizers                                                                                           |
