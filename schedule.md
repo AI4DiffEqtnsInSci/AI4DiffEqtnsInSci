@@ -23,7 +23,8 @@ All times are in the **CET** timezone.
 | 1:45 PM - 2:00 PM | Contributed Talk 3 | Neural operators with localized integral and differential kernels                                                                                     |
 | 2:00 PM - 2:30 PM | Invited Talk 6      | Alex Townsend                                                                   |
 | 2:30 PM - 3:15 PM | Panel Discussion                     | Kevin Carlberg, Marta D'Elia, Shirley Ho, Max Welling                                                                            |
-| 3:15 PM - 3:45 PM | Coffee Break                    |                                                                                                 |
+| 3:15 PM - 3:30 PM | Awards                    |                                                                                                 |
+| 3:30 PM - 3:45 PM | Coffee Break                    |                                                                                                 |
 | 3:45 PM - 4:00 PM | Contributed Talk 4                   |  A Multi-Grained Symmetric Differential Equation Model for Learning Protein Ligand Binding Dynamics                                        |
 | 4:00 PM - 4:30 PM | Invited Talk 7                    | Youngsoo Choi                                     |
 | 4:30 PM - 5:00 PM | Invited Talk 8                    | Steve Brunton                |
