@@ -15,7 +15,7 @@ papers.
 This workshop is **non-archival**; even though all accepted papers will be
 available on OpenReview, there are *no* formally-published proceedings.
 
-We plan to offer **Best Paper and Best Poster Award(s)**, and exceptional submissions will be chosen for contributed talks. 
+Exceptional submissions will be chosen for contributed talks. 
 
 | **Submission link** | [OpenReview](https://openreview.net/group?id=ICLR.cc/2024/Workshop/AI4DiffEqtnsInSci) |
 | **Submission opens** | Thursday, January 4, 2024 |
