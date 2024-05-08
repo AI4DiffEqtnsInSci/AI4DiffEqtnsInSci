@@ -28,3 +28,4 @@ All times are in the **CET** timezone.
 | 4:00 PM - 4:30 PM | Invited Talk 7                    | Youngsoo Choi                                     |
 | 4:30 PM - 5:00 PM | Invited Talk 8                    | Steve Brunton                |
 | 5:00 PM | Closing Remarks                          | Organizers                                                                                           |
+| 5:15 PM | Networking                          | Registered Attendees                                                                                           |
